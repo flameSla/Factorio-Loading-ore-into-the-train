@@ -43,9 +43,15 @@ Intel 10600k + ddr4-3600
 
 ![alt text](img/pic5.png)
 
-| 	            | Ore extraction, k/min | Ticks | avg, ms  |
-| ------------- | --------------------- |-------|--------- |
-| Belts | 605 | 36000 | 1.103 |
-| Bots (standart) | 596 | 36000 | 1.740 |
-| Bots (improved version) | 653 | 36000 | 1.386 |
-| Direct mining | 610 | 36000 | 0.502 |
+| 	                      | Ore extraction, k/min | Ticks | avg, ms  |
+| ----------------------- | --------------------- |-------|--------- |
+| Belts                   | 605                   | 36000 | 1.103    |
+| Bots (standart)         | 596                   | 36000 | 1.740    |
+| Bots (improved version) | 653                   | 36000 | 1.386    |
+| Direct mining           | 610                   | 36000 | 0.502    |
+
+## 3. Conclusions
+
+Direct mining - the best way to load ore
+
+Bots - absolutely not suitable for loading ore. If you can't give up bots, then use the improved version.
