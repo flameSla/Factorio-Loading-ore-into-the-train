@@ -43,16 +43,9 @@ Intel 10600k + ddr4-3600
 
 ![alt text](img/pic5.png)
 
-
-
-
-
-
-
-
-
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 	            | Ore extraction, k/min | Ticks | avg, ms  |
+| ------------- | --------------------- |-------|--------- |
+| Belts | 605 | 36000 | 1.103 |
+| Bots (standart) | 596 | 36000 | 1.740 |
+| Bots (improved version) | 653 | 36000 | 1.386 |
+| Direct mining | 610 | 36000 | 0.502 |
